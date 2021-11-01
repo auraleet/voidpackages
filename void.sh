@@ -1,1 +1,1 @@
-sudo xbps-install kitty nvidia flatpak file-roller vulkan-loader vulkan-loader-32bit neovim fish-shell Thunar pipewire alsa-pipewire alsa-utils xfce4-screenshooter python3 python3-pip python-pip neofetch 
+sudo xbps-install kitty nvidia flatpak file-roller vulkan-loader vulkan-loader-32bit neovim fish-shell Thunar pipewire alsa-pipewire alsa-utils xfce4-screenshooter python3 python3-pip python-pip neofetch xfce4-alsa-plugin 
